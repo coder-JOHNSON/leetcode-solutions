@@ -14,9 +14,8 @@ public:
     vector<int> rightSideView(TreeNode* root) {
     queue<TreeNode*> dq;
     vector<int> v;
-    if(root == nullptr) return v;
     dq.push(root);
-    v.push_back(root -> val);
+    if(root == nullptr) return v;
         while(dq.size()){
             int n = dq.size();
             for(int i = 0; i < n; i++){
@@ -24,10 +23,9 @@ public:
                 dq.pop();
                 if(temp -> left != nullptr) dq.push(temp -> left);
                 if(temp -> right != nullptr) dq.push(temp -> right);
+                if(i == n - 1) v.push_back(temp -> val);
             }
-                v.push_back(dq.back() -> val);
         }
-        v.pop_back();
         return v;
     }
 };
