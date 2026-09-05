@@ -103,4 +103,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
