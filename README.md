@@ -4,6 +4,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -67,6 +68,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
@@ -131,4 +133,8 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
