@@ -12,6 +12,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0682-baseball-game) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Tree
 |  |
 | ------- |
@@ -133,10 +134,12 @@
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0682-baseball-game) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Bracket Sequences
 |  |
 | ------- |
