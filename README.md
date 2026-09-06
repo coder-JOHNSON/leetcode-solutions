@@ -11,6 +11,7 @@
 | [0155-min-stack](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Tree
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -139,4 +141,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
