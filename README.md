@@ -8,6 +8,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0503-next-greater-element-ii](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 ## Tree
 |  |
 | ------- |
@@ -122,4 +123,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Array
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
