@@ -26,17 +26,17 @@ public:
     //     return diameter;
     // }
 
-
-    int diameter = 0;
-    int height(TreeNode *root,int &diameter){
+    int dia;
+    int levels(TreeNode *root,int &diameter){
         if(root == NULL) return 0;
-        int l = height(root -> left,diameter);
-        int r = height(root -> right,diameter);
-        diameter = max(diameter,l + r);
-        return max(l,r) + 1;
+        int leftLevels = levels(root -> left,diameter);
+        int rightLevels = levels(root -> right,diameter);
+        if(leftLevels + rightLevels > dia) dia = leftLevels + rightLevels;
+        return 1 + max(leftLevels,rightLevels);
     }
     int diameterOfBinaryTree(TreeNode* root){
-        height(root,diameter);
-        return diameter;
+        dia = 0;
+        levels(root,dia);
+        return dia;
     }
 };
