@@ -46,7 +46,7 @@ public:
 
     vector<vector<int>> levelOrder(TreeNode* root) {
         int n = levels(root);
-        vector<vector<int>> ans(n,vector<int>(0));
+        vector<vector<int>>ans(n,vector<int>(0));
         queue<pair<TreeNode*,int>>q;
         if(root != NULL) q.push({root,0});
         while(q.size() > 0){
