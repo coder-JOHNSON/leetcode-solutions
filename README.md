@@ -33,6 +33,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0257-binary-tree-paths](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -110,6 +113,7 @@
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 ## Design
 |  |
 | ------- |
