@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -145,6 +146,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
@@ -158,12 +160,14 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Bracket Sequences
@@ -174,4 +178,8 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0682-baseball-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
