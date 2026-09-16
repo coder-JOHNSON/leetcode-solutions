@@ -41,6 +41,7 @@
 | [0404-sum-of-left-leaves](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -71,6 +72,7 @@
 | [0404-sum-of-left-leaves](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
@@ -100,6 +102,7 @@
 | [0404-sum-of-left-leaves](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0700-search-in-a-binary-search-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
@@ -132,6 +135,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 ## Binary Lifting
 |  |
 | ------- |
