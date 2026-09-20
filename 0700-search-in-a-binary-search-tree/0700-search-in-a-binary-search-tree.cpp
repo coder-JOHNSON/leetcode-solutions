@@ -17,9 +17,11 @@ public:
         // else if(root -> val < val) return searchBST(root -> right,val);
         // else return root;
 
-        if(root == NULL) return root;
-        if(root -> val > val) return searchBST(root -> left,val);
-        else if(root -> val < val) return searchBST(root -> right,val);
-        else return root;
+        while(root != NULL){
+            if(root -> val == val) return root;
+            if(root -> val > val) root = root -> left;
+            else root = root -> right;
+        }
+        return root;
     }
 };
