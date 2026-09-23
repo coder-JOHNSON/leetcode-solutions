@@ -20,7 +20,7 @@ public:
                     temp = temp -> right;
                 }
                 root -> val = temp -> val;
-                if(root -> left) root -> left = deleteNode(root -> left,root -> val);
+                if(root -> left != NULL) root -> left = deleteNode(root -> left,root -> val);
             }
             else{
                 if(root -> left != NULL) return root -> left;
