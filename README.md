@@ -54,6 +54,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
@@ -87,6 +88,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
@@ -123,6 +125,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
@@ -139,6 +142,7 @@
 | [0404-sum-of-left-leaves](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -209,6 +213,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -249,4 +254,8 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Sorting
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
