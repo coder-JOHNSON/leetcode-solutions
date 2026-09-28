@@ -16,6 +16,7 @@
 | [0590-n-ary-tree-postorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Tree
 |  |
@@ -55,6 +56,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
@@ -126,6 +128,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
@@ -181,6 +184,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
 | ------- |
@@ -232,6 +236,7 @@
 | [0503-next-greater-element-ii](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
@@ -239,6 +244,7 @@
 | [0042-trapping-rain-water](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Bracket Sequences
 |  |
