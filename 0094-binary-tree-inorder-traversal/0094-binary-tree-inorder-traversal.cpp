@@ -11,12 +11,32 @@
  */
 class Solution {
 public:
-    vector<int> v;
     vector<int> inorderTraversal(TreeNode* root) {
-        if(root == nullptr) return v;
-        inorderTraversal(root -> left);
-        v.push_back(root -> val);
-        inorderTraversal(root -> right);
-        return v;
+        vector<int> res;
+        TreeNode* curr = root;
+
+        while(curr != NULL){
+            if(curr -> left == NULL){
+                res.push_back(curr -> val);
+                curr = curr -> right;
+            }
+            else{
+                TreeNode* IP = curr -> left;
+                while(IP -> right != NULL && IP -> right != curr){
+                    IP = IP -> right;
+                }
+
+                if(IP -> right == NULL){
+                    IP -> right = curr;
+                    curr = curr -> left;
+                }
+                else{
+                    IP -> right = NULL;
+                    res.push_back(curr -> val);
+                    curr = curr -> right;
+                }
+            }
+        }
+        return res;
     }
 };
