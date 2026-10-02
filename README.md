@@ -195,6 +195,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0933-number-of-recent-calls](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -205,6 +206,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0933-number-of-recent-calls](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Linked List
 |  |
@@ -217,6 +219,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0295-find-median-from-data-stream](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
@@ -278,6 +281,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
@@ -285,6 +289,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
