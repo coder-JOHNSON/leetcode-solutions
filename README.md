@@ -10,6 +10,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -36,6 +37,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -112,6 +114,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -180,6 +183,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
@@ -194,6 +198,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0933-number-of-recent-calls](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
@@ -316,4 +321,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
