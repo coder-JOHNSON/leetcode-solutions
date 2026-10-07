@@ -61,6 +61,7 @@
 | [0938-range-sum-of-bst](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
@@ -97,6 +98,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
@@ -138,6 +140,7 @@
 | [0938-range-sum-of-bst](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
@@ -172,6 +175,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -198,6 +202,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -283,6 +288,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
