@@ -11,18 +11,14 @@
  */
 class Solution {
 public:
-    vector<string> v;
-    void solve(TreeNode *root,string path){
-        if(root == nullptr) return;
+    vector<string>v;
+    void solve(TreeNode* root,string path){
+        if(root == NULL) return;
 
-        if(path.empty()){
-            path += to_string(root -> val);
-        }
-        else{
-            path += "->" + to_string(root -> val);
-        }
+        if(path.empty()) path += to_string(root -> val);
+        else path += "->" + to_string(root -> val);
 
-        if(root -> left == nullptr && root -> right == nullptr){
+        if(root -> left == NULL && root -> right == NULL){
             v.push_back(path);
             return;
         }
