@@ -6,6 +6,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -257,6 +258,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -273,6 +275,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -332,6 +335,7 @@
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 ## Bucket Sort
 |  |
