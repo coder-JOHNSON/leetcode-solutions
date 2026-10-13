@@ -273,6 +273,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -315,6 +316,7 @@
 | [0295-find-median-from-data-stream](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -357,6 +359,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 ## Matrix
 |  |
 | ------- |
