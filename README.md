@@ -274,6 +274,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -360,8 +361,13 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 ## Matrix
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+## Math
+|  |
+| ------- |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 <!---LeetCode Topics End-->
