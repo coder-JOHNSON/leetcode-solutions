@@ -276,6 +276,7 @@
 | [1944-number-of-visible-people-in-a-queue](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [3379-transformed-array](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/3379-transformed-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -294,6 +295,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0682-baseball-game) |
+| [3379-transformed-array](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/3379-transformed-array) |
 ## Dynamic Programming
 |  |
 | ------- |
