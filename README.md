@@ -249,6 +249,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Floyd's Cycle Finding Algorithm
@@ -269,6 +270,7 @@
 | [0239-sliding-window-maximum](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0621-task-scheduler](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -319,6 +321,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 ## Heap (Priority Queue)
@@ -328,6 +331,7 @@
 | [0239-sliding-window-maximum](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1046-last-stone-weight) |
 ## Quickselect
@@ -356,6 +360,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Iterator
 |  |
 | ------- |
@@ -364,6 +369,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0621-task-scheduler](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 ## Matrix
