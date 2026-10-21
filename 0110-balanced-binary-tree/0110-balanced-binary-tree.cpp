@@ -9,8 +9,8 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution {
-public:
+// class Solution {
+// public:
     // int height(TreeNode *root){
     //     if(root == nullptr) return 0;
     //     int l = height(root -> left);
@@ -25,6 +25,8 @@ public:
     //     return height(root) != -1;
     // }
 
+
+
     // int levels(TreeNode *root){
     //     if(root == NULL) return 0;
     //     return 1 + max(levels(root -> left),levels(root -> right));
@@ -38,18 +40,42 @@ public:
     //     return isBalanced(root -> left) && isBalanced(root -> right);
     // }
 
-    bool ans;
-    int levels(TreeNode *root){
-        if(root == NULL) return 0;
+
+
+    // bool ans;
+    // int levels(TreeNode *root){
+    //     if(root == NULL) return 0;
+    //     int leftLevels = levels(root -> left);
+    //     int rightLevels = levels(root -> right);
+    //     if(abs(leftLevels - rightLevels) > 1) ans = false;
+    //     return 1 + max(leftLevels,rightLevels);
+    // }
+
+    // bool isBalanced(TreeNode* root) {
+    //     ans = true;  // Balanced tree
+    //     levels(root);
+    //     return ans;
+    // }
+// };
+
+
+
+
+
+
+class Solution {
+public:
+int levels(TreeNode* root){
+    if(root == NULL) return 0;
+    return 1 + max(levels(root -> left),levels(root -> right));
+}
+    bool isBalanced(TreeNode* root){
+        if(root == NULL) return true;
         int leftLevels = levels(root -> left);
         int rightLevels = levels(root -> right);
-        if(abs(leftLevels - rightLevels) > 1) ans = false;
-        return 1 + max(leftLevels,rightLevels);
-    }
 
-    bool isBalanced(TreeNode* root) {
-        ans = true;  // Balanced tree
-        levels(root);
-        return ans;
+        if(abs(leftLevels - rightLevels) > 1) return false;
+        return isBalanced(root -> left) && isBalanced(root -> right);
     }
+    
 };
