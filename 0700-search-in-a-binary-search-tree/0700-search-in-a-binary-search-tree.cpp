@@ -18,10 +18,10 @@ public:
         // else return root;
 
         while(root != NULL){
-            if(root -> val == val) return root;
-            if(root -> val > val) root = root -> left;
-            else root = root -> right;
+        if(root -> val == val) return root;
+        if(root -> val > val) root = root -> left;
+        else root = root -> right;
         }
-        return root;
+    return root;
     }
 };
