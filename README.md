@@ -260,6 +260,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0846-hand-of-straights](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1331-rank-transform-of-an-array](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -285,6 +286,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [1331-rank-transform-of-an-array](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -335,6 +337,7 @@
 | [0846-hand-of-straights](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1331-rank-transform-of-an-array](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 ## Heap (Priority Queue)
 |  |
