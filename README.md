@@ -174,6 +174,7 @@
 | [0020-valid-parentheses](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0648-replace-words](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0648-replace-words) |
 ## Backtracking
 |  |
 | ------- |
@@ -261,6 +262,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0648-replace-words](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0846-hand-of-straights](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -285,6 +287,7 @@
 | [0455-assign-cookies](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0648-replace-words](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0648-replace-words) |
 | [0682-baseball-game](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0846-hand-of-straights](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -413,6 +416,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0648-replace-words](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0648-replace-words) |
 ## Quicksort
 |  |
 | ------- |
