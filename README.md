@@ -175,6 +175,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0648-replace-words](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0648-replace-words) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 ## Backtracking
 |  |
 | ------- |
@@ -298,6 +299,7 @@
 | [1944-number-of-visible-people-in-a-queue](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3379-transformed-array](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/3379-transformed-array) |
 ## Monotonic Stack
 |  |
@@ -386,6 +388,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0621-task-scheduler) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 ## Iterator
 |  |
 | ------- |
@@ -417,6 +420,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0648-replace-words) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 ## Quicksort
 |  |
 | ------- |
