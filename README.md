@@ -291,6 +291,7 @@
 | [0648-replace-words](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0648-replace-words) |
 | [0682-baseball-game](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0846-hand-of-straights](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0907-sum-of-subarray-minimums](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -400,6 +401,7 @@
 | [0455-assign-cookies](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
