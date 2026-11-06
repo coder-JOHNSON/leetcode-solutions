@@ -305,6 +305,7 @@
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3379-transformed-array](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/3379-transformed-array) |
+| [3394-check-if-grid-can-be-cut-into-sections](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -358,6 +359,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
+| [3394-check-if-grid-can-be-cut-into-sections](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
