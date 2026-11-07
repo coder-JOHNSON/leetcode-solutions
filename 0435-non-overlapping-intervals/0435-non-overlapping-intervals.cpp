@@ -75,24 +75,56 @@
 
 
 
+// class Solution {
+// public:
+//     int eraseOverlapIntervals(vector<vector<int>>& intervals) {
+//         int n = intervals.size();
+//         if(n == 0) return 0;
+//         sort(intervals.begin(),intervals.end(),[](vector<int>&a,vector<int>&b){
+//             return a[1] < b[1];
+//         });
+
+//         int last = intervals[0][1];
+//         int count = 1;
+
+//         for(int i = 1; i < n; i++){
+//             if(intervals[i][0] >= last){
+//                 count++;
+//                 last = intervals[i][1];
+//             }
+//         }
+//         return n - count;
+//     }
+// };
+
+
+
+
+
+
+
 class Solution {
 public:
     int eraseOverlapIntervals(vector<vector<int>>& intervals) {
+        vector<pair<int,int>>v;
         int n = intervals.size();
-        if(n == 0) return 0;
-        sort(intervals.begin(),intervals.end(),[](vector<int>&a,vector<int>&b){
-            return a[1] < b[1];
-        });
-
-        int last = intervals[0][1];
-        int count = 1;
-
-        for(int i = 1; i < n; i++){
-            if(intervals[i][0] >= last){
-                count++;
-                last = intervals[i][1];
-            }
+        for(int i = 0; i < n; i++){
+            v.push_back({intervals[i][1],intervals[i][0]});
         }
-        return n - count;
+
+        int c = 0;
+        sort(begin(v),end(v));
+
+        int prev = INT_MIN;
+        for(auto x : v){
+            int start = x.second;
+            int end = x.first;
+
+            if(start >= prev){
+                prev = end;
+            }
+            else c++;
+        }
+        return c;
     }
 };
