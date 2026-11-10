@@ -219,6 +219,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -242,6 +243,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
@@ -260,6 +262,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -440,4 +443,8 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0455-assign-cookies) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
