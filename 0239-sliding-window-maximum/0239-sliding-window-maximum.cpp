@@ -1,28 +1,54 @@
+// class Solution {
+// public:
+//     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
+//         deque<int> dq;
+//         vector<int> ans;
+//         int n = nums.size();
+
+//         for(int i = 0; i < k; i++){
+//             while(dq.size() > 0 && nums[dq.back()] < nums[i]){
+//                 dq.pop_back();
+//             }
+//             dq.push_back(i);
+//         }
+
+//         for(int i = k; i < n; i++){
+//             ans.push_back(nums[dq.front()]);
+
+//             while(dq.size() > 0 && dq.front() <= i - k) dq.pop_front();
+
+//             while(dq.size() > 0 && nums[dq.back()] < nums[i]){
+//                 dq.pop_back();
+//             }
+//             dq.push_back(i);
+//         }
+//         ans.push_back(nums[dq.front()]);
+//         return ans;
+//     }
+// };
+
+
+
+
+
+
+
+
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
-        deque<int> dq;
-        vector<int> ans;
-        int n = nums.size();
+        deque<int> deq;
+        vector<int> result;
 
-        for(int i = 0; i < k; i++){
-            while(dq.size() > 0 && nums[dq.back()] < nums[i]){
-                dq.pop_back();
-            }
-            dq.push_back(i);
+        for(int i = 0; i < nums.size(); i++){
+            while(!deq.empty() && deq.front() <= i - k) deq.pop_front();
+
+            while(!deq.empty() && nums[i] > nums[deq.back()]) deq.pop_back();
+
+            deq.push_back(i);
+
+            if(i >= k - 1) result.push_back(nums[deq.front()]);
         }
-
-        for(int i = k; i < n; i++){
-            ans.push_back(nums[dq.front()]);
-
-            while(dq.size() > 0 && dq.front() <= i - k) dq.pop_front();
-
-            while(dq.size() > 0 && nums[dq.back()] < nums[i]){
-                dq.pop_back();
-            }
-            dq.push_back(i);
-        }
-        ans.push_back(nums[dq.front()]);
-        return ans;
+        return result;
     }
 };
