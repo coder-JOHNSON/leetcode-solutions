@@ -226,6 +226,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0460-lfu-cache](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Queue
@@ -246,6 +247,7 @@
 | [0141-linked-list-cycle](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0460-lfu-cache](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -266,6 +268,7 @@
 | [0146-lru-cache](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0460-lfu-cache](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0621-task-scheduler](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -450,4 +453,5 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
