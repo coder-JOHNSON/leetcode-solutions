@@ -283,6 +283,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0057-insert-interval) |
@@ -339,6 +340,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -416,6 +418,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
