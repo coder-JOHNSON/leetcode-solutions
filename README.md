@@ -180,6 +180,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## DP on Trees
 |  |
@@ -287,6 +288,7 @@
 | [0055-jump-game](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -457,4 +459,8 @@
 | ------- |
 | [0146-lru-cache](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0460-lfu-cache) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
