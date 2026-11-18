@@ -288,6 +288,7 @@
 | [0055-jump-game](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0085-maximal-rectangle) |
@@ -438,6 +439,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0066-plus-one) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 ## Timsort
 |  |
