@@ -180,6 +180,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0257-binary-tree-paths) |
@@ -286,6 +287,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0057-insert-interval) |
@@ -468,4 +470,8 @@
 | ------- |
 | [0078-subsets](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0090-subsets-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
