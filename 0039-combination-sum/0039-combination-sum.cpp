@@ -6,8 +6,8 @@ public:
 
         if(tar == 0){
             if(s.find(comb) == s.end()){
-                s.insert(comb);
                 ans.push_back(comb);
+                s.insert(comb);
             }
             return;
         }
