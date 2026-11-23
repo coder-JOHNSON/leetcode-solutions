@@ -176,6 +176,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0648-replace-words](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0648-replace-words) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 ## Backtracking
 |  |
