@@ -234,6 +234,7 @@
 | [0460-lfu-cache](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -246,6 +247,7 @@
 | [0295-find-median-from-data-stream](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -320,6 +322,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -450,6 +453,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0066-plus-one) |
+| [1352-product-of-the-last-k-numbers](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 ## Timsort
 |  |
@@ -480,4 +484,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/0051-n-queens) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/coder-JOHNSON/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
