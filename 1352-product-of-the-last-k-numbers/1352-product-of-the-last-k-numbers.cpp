@@ -1,23 +1,23 @@
-class ProductOfNumbers {
-public:
-    vector<int> nums;
-    ProductOfNumbers() {
+// class ProductOfNumbers {
+// public:
+//     vector<int> nums;
+//     ProductOfNumbers() {
         
-    }
+//     }
     
-    void add(int num) {
-        nums.push_back(num);
-    }
+//     void add(int num) {
+//         nums.push_back(num);
+//     }
     
-    int getProduct(int k) {
-        int prod = 1;
-        int n = nums.size();
+//     int getProduct(int k) {
+//         int prod = 1;
+//         int n = nums.size();
 
-        for(int i = n - k; i < nums.size(); i++) prod *= nums[i];
+//         for(int i = n - k; i < nums.size(); i++) prod *= nums[i];
 
-        return prod;
-    }
-};
+//         return prod;
+//     }
+// };
 
 /**
  * Your ProductOfNumbers object will be instantiated and called as such:
@@ -25,3 +25,40 @@ public:
  * obj->add(num);
  * int param_2 = obj->getProduct(k);
  */
+
+ class ProductOfNumbers {
+public:
+    vector<int> nums; // cumulative product store karenge
+    int n;
+    ProductOfNumbers() {
+        nums.clear();
+        n = 0;
+    }
+    
+    void add(int num) {
+        if(num == 0){
+            nums = {};
+            n = 0;
+        }
+        else{
+            if(nums.empty()){
+                nums.push_back(num);
+            }
+            else{
+                nums.push_back(num * nums[n - 1]);
+            }
+            n++;
+        }
+    }
+    
+    int getProduct(int k) {
+        if(k > n){
+            return 0;
+        }
+        else if(k == n){
+            return nums[n - 1];
+        }
+
+        return nums[n - 1] / nums[n - k - 1];
+    }
+};
